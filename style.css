@@ -1,9 +1,9 @@
 *{
-    background-color:grey;
+    background-color:black;
 }
-h1{
-    color:white;
-    background-color: black;
+h1,.items{
+    color:rgb(224, 212, 140);
+    
 
 }
 .author{
@@ -15,6 +15,5 @@ h1{
 }
 .items{
     font-size:xx-large;
-    color:white;
-    background-color:black;
+    
 }
