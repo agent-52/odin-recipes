@@ -1,0 +1,17 @@
+h1,h2,h3{
+    color:goldenrod;
+    background-color: black;
+}
+
+*{
+    background-color: rgb(245, 234, 141);
+}
+.author{
+    font-size: x-large;
+    color:gold;
+    background-color: black;
+}
+#finished{
+    font-size: x-large;
+    font-weight: 900;
+}
