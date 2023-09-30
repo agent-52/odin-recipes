@@ -1,0 +1,23 @@
+*{
+    background-color:grey;
+}
+h1{
+    color:white;
+    background-color: black;
+
+}
+.author{
+
+    font-size:x-large;
+    color:rgb(115, 224, 238);
+    
+    
+}
+.items{
+    font-size:xx-large;
+    color:white;
+    background-color:black;
+}
+.itemslist{
+    background-color: yellow;
+}
