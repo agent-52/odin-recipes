@@ -4,7 +4,8 @@ h1,h2,h3{
 }
 
 *{
-    background-color: rgb(245, 234, 141);
+    background-color: black;
+    color:white;
 }
 .author{
     font-size: x-large;
